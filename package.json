@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "docs:dev": "vuepress dev docs --config ./vuepress.config.ts",
+    "docs:build": "vuepress build doc --config ./vuepress.config.tss"
+  },
+  "devDependencies": {
+    "vuepress": "2.0.0-beta.51"
+  },
+  "dependencies": {
+    "vuepress-theme-hope": "2.0.0-beta.97"
+  }
+}
